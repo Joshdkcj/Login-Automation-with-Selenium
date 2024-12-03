@@ -2,10 +2,10 @@
 
 Automated Testing Project
 
-Overview
+Overview：
 This project automates the testing of login and form functionalities for the Demo OrangeHRM website using Selenium.
 
-Features
+Features：
 1. Login Page Error Validation:
 Verifies error messages when the username or password fields are empty or incorrect.
 2. Successful Login Validation:
