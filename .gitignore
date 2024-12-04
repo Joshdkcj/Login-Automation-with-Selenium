@@ -1,0 +1,11 @@
+# Python Cache Files
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+env/
+
+# Log and temporary files
+*.log
+*.tmp
