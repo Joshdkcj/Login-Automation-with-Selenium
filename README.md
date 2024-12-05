@@ -14,7 +14,6 @@ AutomationTestingProject/
 │   └── login_page.py              # Handles login page interactions
 ├── tests/                         # Contains test scripts
 │   └── test_login.py              # Tests login scenarios
-├── screenshots/                   # Stores screenshots generated during tests
 ├── main.py                        # Entry point for running all tests
 ├── requirements.txt               # Project dependencies
 └── README.md                      # Project documentation
