@@ -10,12 +10,19 @@ This project is an automation testing suite for the login functionality of the D
 
 ### Project Structure
 AutomationTestingProject/
+
 ├── pages/                         # Encapsulates page logic and locators
+
 │   └── login_page.py              # Handles login page interactions
+
 ├── tests/                         # Contains test scripts
+
 │   └── test_login.py              # Tests login scenarios
+
 ├── main.py                        # Entry point for running all tests
+
 ├── requirements.txt               # Project dependencies
+
 └── README.md                      # Project documentation
 
 
